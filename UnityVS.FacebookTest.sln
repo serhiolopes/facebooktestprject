@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.FacebookTest.CSharp", "UnityVS.FacebookTest.CSharp.csproj", "{05AFF219-C455-5807-202F-2122F24055D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.FacebookTest.CSharp.Editor", "UnityVS.FacebookTest.CSharp.Editor.csproj", "{E7DD3260-C13D-4394-C37A-AAD22A431168}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05AFF219-C455-5807-202F-2122F24055D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05AFF219-C455-5807-202F-2122F24055D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05AFF219-C455-5807-202F-2122F24055D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05AFF219-C455-5807-202F-2122F24055D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7DD3260-C13D-4394-C37A-AAD22A431168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7DD3260-C13D-4394-C37A-AAD22A431168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7DD3260-C13D-4394-C37A-AAD22A431168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7DD3260-C13D-4394-C37A-AAD22A431168}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
